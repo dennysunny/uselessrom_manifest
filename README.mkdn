@@ -7,7 +7,7 @@ Getting started
 ---------------
 
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize  local repository using the LineageOS trees:
 ```
 repo init -u git://github.com/dennysunny/uselessrom_manifest -b lineage-17.1
 
